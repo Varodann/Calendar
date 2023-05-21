@@ -1,6 +1,6 @@
 # Scheduler
 
-Scheduler to prosta aplikacja do zarządzania spotkaniami i wyszukiwania dostępnych slotów czasowych w kalendarzach.
+Scheduler to prosta aplikacja do zarządzania spotkaniami i wyszukiwania dostępnych slotów czasowych w kalendarzach. Zrealizowana na podstawie wytycznych zadania.
 
 ## Opis
 
