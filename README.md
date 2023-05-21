@@ -10,7 +10,7 @@ Aplikacja umożliwia znajdowanie dostępnych slotów czasowych dla spotkań na p
 
 1. Sklonuj repozytorium na swój lokalny komputer.
 2. Otwórz projekt w wybranym środowisku programistycznym.
-3. Zbuduj projekt i uruchom aplikację.
+3. Zbuduj projekt i uruchom testy, w których znajdują sie przykłady.
 
 ## Użycie
 
